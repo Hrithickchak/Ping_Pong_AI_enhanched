@@ -4,7 +4,7 @@ Part 3: Use machine learning to Train a new more enhanced AI to track the
         correct position of the ball and move ecordingly. Tracking should be 
         sig less than the primitive AI.
 Part 4:(ambitious) 
-        not yet decided where I should go from there
+        Use unity to add basic 3D animations
 Primary coding language:
         C++
 Primary IDE: nvim, subl
